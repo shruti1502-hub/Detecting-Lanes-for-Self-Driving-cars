@@ -1,5 +1,5 @@
 # Detecting-Lanes-for-Self-Driving-cars
-This is a simple project for lane detection which is an important task for building models of self-driving cars. I have tried to detect lanes in images and videos using basics of Computer Vision and Hough Line Trandsforms.
+This is a simple project for lane detection which is an important task for building models of self-driving cars. I have tried to detect lanes in images and videos using basics of Computer Vision and Hough Line Transforms.
 
 # Concepts Used
 1. Gray-Scaling: 
